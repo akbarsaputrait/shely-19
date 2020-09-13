@@ -20,6 +20,7 @@ export default {
     '@nuxtjs/color-mode',
     '@nuxtjs/svg'
   ],
+  plugins: ['~plugins/scrollto.js'],
   purgeCSS: {
     whitelist: ['dark-mode'],
   },

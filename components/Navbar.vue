@@ -7,12 +7,12 @@
     <button v-if="$colorMode.preference === 'light'"
             class="bg-gray-900 hover:bg-gray-700 focus:bg-gray-800 text-white font-bold p-2 rounded-full"
             @click="$colorMode.preference = 'dark'">
-      <component is="icon-dark"></component>
+      <IconDark />
     </button>
     <button v-if="$colorMode.preference === 'dark'"
             class="bg-gray-300 hover:bg-gray-100 focus:bg-gray-200 text-gray-700 font-bold p-2 rounded-full"
             @click="$colorMode.preference = 'light'">
-      <component is="icon-light"></component>
+      <IconLight />
     </button>
   </div>
 </template>

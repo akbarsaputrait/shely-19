@@ -13,7 +13,9 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/pwa": "^3.0.0-0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "vue": "^2.6.12",
+    "vue-scrollto": "^2.7.2"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.5",
