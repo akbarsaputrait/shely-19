@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4461a842-b1b5-486d-be39-3e95772c7192/deploy-status)](https://app.netlify.com/sites/nostalgic-kepler-0d4a69/deploys)
 
-# Shely 19th Birthday
+# Shely 19th Birthday (27 October 2019)
 
 > Build with ❤️ & Nuxt.js, Tailwind (+Dark Mode)
 
